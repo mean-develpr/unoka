@@ -1,0 +1,27 @@
+{
+  "name": "unocha_test",
+  "version": "1.0.0",
+  "description": "UNOCHA Basic Development Aptitude Test",
+  "main": "index.js",
+  "engines": {
+    "node": ">=8.9.4"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "inspect": "node --inspect index.js",
+    "test": "jasmine-node spec"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^7.2.1",
+    "log4js": "^3.0.6",
+    "restify-errors": "^6.1.1",
+    "sequelize": "^4.41.0",
+    "sqlite3": "^4.0.3"
+  },
+  "devDependencies": {
+    "jasmine-node": "^1.16.2",
+    "request": "^2.88.0"
+  }
+}
