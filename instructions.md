@@ -71,5 +71,5 @@ Unfotunately, I've never worked with resitfy before, so I spent a lot of time tr
 
 2) I have completed some tests of the tests required in 'Add missing tests' task, but there are some work left to do here.
 
-3) Sorry, but not time to fully complete last part of CRUD operations :-(
+3) TBD: some CRUD operations are not finished
 
